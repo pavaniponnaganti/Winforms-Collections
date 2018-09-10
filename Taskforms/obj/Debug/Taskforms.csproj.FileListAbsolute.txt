@@ -1,0 +1,10 @@
+D:\Visual Studio Project\Taskforms\Taskforms\bin\Debug\Taskforms.exe.config
+D:\Visual Studio Project\Taskforms\Taskforms\bin\Debug\Taskforms.exe
+D:\Visual Studio Project\Taskforms\Taskforms\bin\Debug\Taskforms.pdb
+D:\Visual Studio Project\Taskforms\Taskforms\obj\Debug\Taskforms.csprojAssemblyReference.cache
+D:\Visual Studio Project\Taskforms\Taskforms\obj\Debug\Taskforms.Form1.resources
+D:\Visual Studio Project\Taskforms\Taskforms\obj\Debug\Taskforms.Properties.Resources.resources
+D:\Visual Studio Project\Taskforms\Taskforms\obj\Debug\Taskforms.csproj.GenerateResource.cache
+D:\Visual Studio Project\Taskforms\Taskforms\obj\Debug\Taskforms.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Taskforms\Taskforms\obj\Debug\Taskforms.exe
+D:\Visual Studio Project\Taskforms\Taskforms\obj\Debug\Taskforms.pdb
